@@ -1,0 +1,21 @@
+{
+  "name": "agentic-ai-course-website",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "^3.0.0",
+    "postcss": "^8.0.0",
+    "autoprefixer": "^10.0.0",
+    "@shadcn/ui": "latest",
+    "lucide-react": "latest",
+    "recharts": "latest"
+  }
+}
